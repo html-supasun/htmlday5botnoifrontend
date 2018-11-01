@@ -106,6 +106,19 @@
     width: 20%;
     }
 }
+@media (min-width:534px) {
+    .image__botnoi{
+    bottom:69vh;
+    width: 16%;
+    }
+}
+@media (min-width:644px) {
+    .image__botnoi{
+    bottom:69vh;
+    width: 13%;
+    }
+}
+
 @media (min-width:768px) {
     .image__botnoi{
     bottom:70vh;
